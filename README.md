@@ -10,7 +10,7 @@
         <h1>titulo 1</h1>
         <p1>parágrafo 1</p1>
         <p2>parágrafo 2</p2>
-     <div
+     <div cass>
 <style 
 <h2>título 2</h2>
 <background collor="Aqua"></background>     
